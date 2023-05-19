@@ -47,6 +47,7 @@ const Work = () => {
       <div className="app__work-filter">
         {[
           'UI/UX',
+          '3D WebApp',
           'Web App',
           'Feature Apps',
           'React Apps',
